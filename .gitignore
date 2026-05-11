@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+# ... existing dist ignore patterns ...
+dist/
+build/
+*.egg-info/
+
+# Environments
+venv/
+env/
+.env
+.venv
+
+# Research Data & Logs
+data/raw/
+data/processed/
+experiments/results/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

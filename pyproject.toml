@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "evola"
+version = "0.1.0"
+description = "A strong AI project focused on intrinsic needs and life-like persistence."
+authors = [{ name = "Author", email = "author@example.com" }]
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "scipy",
+    "torch>=2.0.0",
+    "matplotlib",
+    "pyyaml",
+]
+
+[project.optional-dependencies]
+jax = ["jax", "jaxlib"]
+dev = ["pytest", "black", "isort"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["core*"]
