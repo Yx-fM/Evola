@@ -1,4 +1,4 @@
-"""Evola Pygame — complete GUI application with resize and Chinese support.
+"""Evola Pygame �?complete GUI application with resize and Chinese support.
 
 Launch: python MVPs/MVP0/evola_pygame.py
 """
@@ -10,10 +10,10 @@ from collections import deque
 _BASE = os.path.dirname(os.path.abspath(__file__))
 _PROJ = os.path.dirname(os.path.dirname(_BASE))
 
-sys.path.insert(0, os.path.join(_PROJ, "verification", "08_kunyu", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "02_homeostasis", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "09_junjian", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "10_sensorimotor", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "08_kunyu", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "02_homeostasis", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "09_junjian", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "10_sensorimotor", "impl"))
 
 import numpy as np
 import pygame
@@ -28,45 +28,45 @@ T = {
     "title": "未晞 Evola MVP 0",
     "start": "启动",
     "spawn": "生成",
-    "run100": "跑100步",
+    "run100": "�?00�?,
     "pause": "暂停",
     "resume": "继续",
     "extract": "取出",
     "debug": "调试",
     "stop_btn": "关闭",
-    "quit_btn": "退出",
+    "quit_btn": "退�?,
     "energy": "能量",
     "novelty": "好奇",
     "safety": "安全",
     "visited": "足迹",
     "events": "事件",
-    "privacy": "— — 钧鉴·明镜 — —",
-    "debug_on": "调试中",
-    "no_agents": "暂无智能体",
+    "privacy": "�?�?钧鉴·明镜 �?�?,
+    "debug_on": "调试�?,
+    "no_agents": "暂无智能�?,
     "start_first": "请先启动平台",
-    "platform_started": "平台已启动: {}x{}",
-    "spawned": "已生成: {}",
-    "ran_steps": "已运行 {} 步",
-    "extracted": "已取出: {}",
-    "loaded": "已载入: {}",
-    "platform_stopped": "平台已关闭",
+    "platform_started": "平台已启�? {}x{}",
+    "spawned": "已生�? {}",
+    "ran_steps": "已运�?{} �?,
+    "extracted": "已取�? {}",
+    "loaded": "已载�? {}",
+    "platform_stopped": "平台已关�?,
     "not_found": "未找到智能体",
-    "extract_first": "请先取出智能体",
+    "extract_first": "请先取出智能�?,
     "already_running": "平台已在运行",
     "already_exists": "同名智能体已存在",
     "step_label": "步数",
-    "agents_label": "智能体",
+    "agents_label": "智能�?,
     "fps_label": "FPS",
     "paused_label": "[已暂停]",
-    "idle": "待命中",
-    "exploring": "探索中...",
-    "ate_food": "吃到了食物",
-    "took_damage": "受到了伤害",
+    "idle": "待命�?,
+    "exploring": "探索�?..",
+    "ate_food": "吃到了食�?,
+    "took_damage": "受到了伤�?,
     "hit_wall": "撞到了墙",
-    "saw_food": "发现了食物",
+    "saw_food": "发现了食�?,
     "starving": "饥饿",
     "hungry": "饿了",
-    "peckish": "有点饿",
+    "peckish": "有点�?,
     "full": "饱足",
     "familiar": "熟悉",
     "curious": "好奇",
@@ -74,7 +74,7 @@ T = {
     "bored": "无聊",
     "safe": "安全",
     "alert": "警觉",
-    "scared": "害怕",
+    "scared": "害�?,
     "terrified": "恐惧",
 }
 
@@ -455,3 +455,4 @@ class EvolaPygame:
 
 if __name__ == "__main__":
     EvolaPygame().run()
+

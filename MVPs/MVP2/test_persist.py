@@ -3,10 +3,10 @@ import sys, os, tempfile, json
 
 _BASE = os.path.dirname(__file__)
 _PROJ = os.path.dirname(os.path.dirname(_BASE))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "10_sensorimotor", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "08_kunyu", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "02_homeostasis", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "01_liquid_dynamics", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "10_sensorimotor", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "08_kunyu", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "02_homeostasis", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "01_liquid_dynamics", "impl"))
 
 import numpy as np
 from event_bus import EventBus
@@ -64,3 +64,4 @@ print(f"Acts OK: action={action}")
 
 os.unlink(mind_path)
 print("\nALL GOOD")
+

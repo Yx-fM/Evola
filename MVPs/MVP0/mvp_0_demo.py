@@ -1,4 +1,4 @@
-"""MVP 0 — First Integrated Evola Prototype
+"""MVP 0 �?First Integrated Evola Prototype
 
 Assembles all P0 modules into a running agent:
   08_kunyu (world) + 02_homeostasis (needs) + 10_sensorimotor (mind) + 09_junjian (observer)
@@ -15,13 +15,13 @@ import sys, os, argparse, json, time
 from datetime import datetime
 
 _BASE = os.path.dirname(os.path.abspath(__file__))
-_PROJ = os.path.dirname(os.path.dirname(_BASE))  # MVPs/MVP0 → MVPs → root
+_PROJ = os.path.dirname(os.path.dirname(_BASE))  # MVPs/MVP0 �?MVPs �?root
 
 # Bridge imports across numeric-prefix folders
-sys.path.insert(0, os.path.join(_PROJ, "verification", "08_kunyu", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "02_homeostasis", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "09_junjian", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "10_sensorimotor", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "08_kunyu", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "02_homeostasis", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "09_junjian", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "10_sensorimotor", "impl"))
 
 import numpy as np
 from event_bus import EventBus
@@ -101,7 +101,7 @@ def run_mpl(world, agent, stats, max_steps, delay):
 
     plt.ion()
     fig, (ax_w, ax_o, ax_i) = plt.subplots(1, 3, figsize=(14, 5))
-    fig.suptitle("Evola MVP 0 — Sensorimotor Agent", fontsize=12)
+    fig.suptitle("Evola MVP 0 �?Sensorimotor Agent", fontsize=12)
     info_text = ax_i.text(0.1, 0.5, "", fontsize=9, fontfamily="monospace",
                           verticalalignment="center", transform=ax_i.transAxes)
     ax_i.axis("off")
@@ -225,3 +225,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

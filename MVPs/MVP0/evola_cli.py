@@ -1,5 +1,4 @@
-"""Evola CLI — 钧鉴·观察站
-
+"""Evola CLI �?钧鉴·观察�?
 Persistent rich dashboard. Three-column layout:
   World window (40%) | Event log (30%) | Agent panel (30%)
 
@@ -13,10 +12,10 @@ from datetime import datetime
 _BASE = os.path.dirname(os.path.abspath(__file__))
 _PROJ = os.path.dirname(os.path.dirname(_BASE))
 
-sys.path.insert(0, os.path.join(_PROJ, "verification", "08_kunyu", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "02_homeostasis", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "09_junjian", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "10_sensorimotor", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "08_kunyu", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "02_homeostasis", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "09_junjian", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "10_sensorimotor", "impl"))
 
 import numpy as np
 from event_bus import EventBus
@@ -34,14 +33,14 @@ from rich.text import Text
 from rich import box
 
 console = Console()
-_TERRAIN_CHAR = {0: " ", 1: "█", 2: "F", 3: "X", 4: "A"}
+_TERRAIN_CHAR = {0: " ", 1: "�?, 2: "F", 3: "X", 4: "A"}
 _VISITED_CHAR = "·"
 _MAX_LOG = 15
 
 
 def _bar(value: float, width: int = 16) -> str:
     filled = int(max(0, min(1, value)) * width)
-    chars = "█" * filled + "░" * (width - filled)
+    chars = "�? * filled + "�? * (width - filled)
     if value > 0.5:
         c = "green"
     elif value > 0.2:
@@ -129,7 +128,7 @@ class EvolaApp:
         h, wid = w.cfg.height, w.cfg.width
         bar = 40
         screen = pygame.display.set_mode((wid * cell, h * cell + bar))
-        pygame.display.set_caption(f"Kunyu World — evola_cli observe ({len(self.agents)} agents)")
+        pygame.display.set_caption(f"Kunyu World �?evola_cli observe ({len(self.agents)} agents)")
         clock = pygame.time.Clock()
         font = pygame.font.SysFont("monospace", 13, bold=True)
         small = pygame.font.SysFont("monospace", 11)
@@ -268,12 +267,12 @@ class EvolaApp:
         elif info.get("food_visible"):
             self.events.append((s, "explore", f"{aid} 发现食物"))
         else:
-            self.events.append((s, "explore", f"{aid} 探索中..."))
+            self.events.append((s, "explore", f"{aid} 探索�?.."))
         if len(self.events) > _MAX_LOG:
             self.events.popleft()
 
     def _agent_act_str(self, aid):
-        if not self.events: return "—"
+        if not self.events: return "�?
         last = self.events[-1]
         return last[2]
 
@@ -344,7 +343,7 @@ class EvolaApp:
                     f"[dim]@{self.world.get_agent_pos(aid)}[/dim]\n\n")
 
         status = self._agent_act_str(aid)
-        info.append(f"状态: [italic {T['evola_highlight']}]{status}[/italic {T['evola_highlight']}]\n\n")
+        info.append(f"状�? [italic {T['evola_highlight']}]{status}[/italic {T['evola_highlight']}]\n\n")
 
         # Energy
         label = _label(h.energy.value, [(0.2, "starving"), (0.5, "hungry"), (0.8, "peckish"), (1.0, "full")])
@@ -374,7 +373,7 @@ class EvolaApp:
 
         # Privacy line
         if self.debug:
-            info.append(f"\n[{T['debug_border']}]━━━ 内部状态可见 ━━━[/{T['debug_border']}]")
+            info.append(f"\n[{T['debug_border']}]━━�?内部状态可�?━━━[/{T['debug_border']}]")
         else:
             info.append(f"\n[{T['privacy_line']}]─ ─ 钧鉴·明镜 ─ ─[/{T['privacy_line']}]")
 
@@ -393,17 +392,17 @@ class EvolaApp:
         # Header
         if self.platform_running and self.world:
             hdr = Text()
-            hdr.append(" 钧鉴·观察站 ", style=f"bold white on {T['kunyu_border'].split()[-1]}")
+            hdr.append(" 钧鉴·观察�?", style=f"bold white on {T['kunyu_border'].split()[-1]}")
             hdr.append(f"  坤舆: {self.world.cfg.height}x{self.world.cfg.width}"
                        f"  Step: {self.world.step_count}")
-            hdr.append(f"  智能体: {len(self.agents)}")
+            hdr.append(f"  智能�? {len(self.agents)}")
             if self._msg:
                 hdr.append(f"  {self._msg}")
             root["header"].update(Panel(hdr, box=box.HEAVY))
         else:
             hdr = Text()
-            hdr.append(" 钧鉴·观察站 ", style=f"bold white on {T['kunyu_border'].split()[-1]}")
-            hdr.append("  平台未启动  输入 [bold]start[/bold] 开始")
+            hdr.append(" 钧鉴·观察�?", style=f"bold white on {T['kunyu_border'].split()[-1]}")
+            hdr.append("  平台未启�? 输入 [bold]start[/bold] 开�?)
             root["header"].update(Panel(hdr, box=box.HEAVY))
 
         # Body: 3 columns
@@ -485,3 +484,4 @@ class EvolaApp:
 
 if __name__ == "__main__":
     EvolaApp().run()
+

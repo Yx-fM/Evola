@@ -1,4 +1,4 @@
-"""MVP 1 — CLI with LTC agent."""
+"""MVP 1 �?CLI with LTC agent."""
 
 import sys, os, json, time, shlex
 from datetime import datetime
@@ -7,10 +7,10 @@ from collections import deque
 _BASE = os.path.dirname(os.path.abspath(__file__))
 _PROJ = os.path.dirname(os.path.dirname(_BASE))
 
-sys.path.insert(0, os.path.join(_PROJ, "verification", "08_kunyu", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "02_homeostasis", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "09_junjian", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "10_sensorimotor", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "08_kunyu", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "02_homeostasis", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "09_junjian", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "10_sensorimotor", "impl"))
 
 import numpy as np
 from event_bus import EventBus
@@ -133,7 +133,7 @@ class EvolaApp:
         h, wid = w.cfg.height, w.cfg.width
         total_w = wid * cell + 280; total_h = 36 + h * cell + 26
         screen = pygame.display.set_mode((total_w, total_h), pygame.RESIZABLE)
-        pygame.display.set_caption("Evola MVP 1 — LTC Agent")
+        pygame.display.set_caption("Evola MVP 1 �?LTC Agent")
         clock = pygame.time.Clock()
         font = pygame.font.Font(None, 14)
         colors = {0: (28, 28, 42), 1: (55, 70, 55), 2: (70, 160, 75), 3: (230, 65, 55), 4: (217, 162, 58)}
@@ -266,7 +266,7 @@ class EvolaApp:
         root = Layout()
         root.split_column(Layout(name="header", size=3), Layout(name="body"), Layout(name="help", size=3))
         hdr = Text()
-        hdr.append(" MVP 1 — LTC Agent ", style=f"bold white on {T['kunyu_border'].split()[-1]}")
+        hdr.append(" MVP 1 �?LTC Agent ", style=f"bold white on {T['kunyu_border'].split()[-1]}")
         if self.platform_running:
             hdr.append(f"  Kunyu: {self.world.cfg.height}x{self.world.cfg.width}  Step: {self.world.step_count}")
         else: hdr.append("  Platform not started  Type [bold]start[/bold]")
@@ -314,3 +314,4 @@ class EvolaApp:
 
 if __name__ == "__main__":
     EvolaApp().run()
+

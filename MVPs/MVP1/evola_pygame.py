@@ -1,4 +1,4 @@
-"""Evola MVP 1 Pygame — LTC agent with full GUI.
+"""Evola MVP 1 Pygame �?LTC agent with full GUI.
 
 Launch: python MVPs/MVP1/evola_pygame.py
 """
@@ -10,10 +10,10 @@ from collections import deque
 _BASE = os.path.dirname(os.path.abspath(__file__))
 _PROJ = os.path.dirname(os.path.dirname(_BASE))
 
-sys.path.insert(0, os.path.join(_PROJ, "verification", "08_kunyu", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "02_homeostasis", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "09_junjian", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "10_sensorimotor", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "08_kunyu", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "02_homeostasis", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "09_junjian", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "10_sensorimotor", "impl"))
 
 import numpy as np
 import pygame
@@ -25,25 +25,25 @@ from mvp_1_config import WORLD, HOMEOSTASIS, ARBITER
 
 T = {
     "title": "未晞 Evola MVP 1 - LTC",
-    "start": "启动", "spawn": "生成", "load": "载入", "run100": "跑100步", "run": "持续跑",
+    "start": "启动", "spawn": "生成", "load": "载入", "run100": "�?00�?, "run": "持续�?,
     "pause": "暂停", "resume": "继续", "extract": "取出", "debug": "调试",
-    "stop_btn": "关闭", "quit_btn": "退出",
+    "stop_btn": "关闭", "quit_btn": "退�?,
     "energy": "能量", "novelty": "好奇", "safety": "安全",
-    "visited": "足迹", "events": "事件", "privacy": "— — 钧鉴·明镜 — —",
-    "level": "LTC在线学习", "debug_on": "调试中", "no_agents": "暂无智能体",
+    "visited": "足迹", "events": "事件", "privacy": "�?�?钧鉴·明镜 �?�?,
+    "level": "LTC在线学习", "debug_on": "调试�?, "no_agents": "暂无智能�?,
     "start_first": "请先启动平台",
-    "platform_started": "MVP1 平台已启动: {}x{}", "spawned": "已生成 {} (LTC)",
-    "ran_steps": "已运行 {} 步", "extracted": "已取出: {}", "loaded": "已载入: {}", "loaded": "已载入: {}",
-    "platform_stopped": "平台已关闭", "not_found": "未找到",
-    "extract_first": "请先取出智能体", "already_running": "平台已在运行",
+    "platform_started": "MVP1 平台已启�? {}x{}", "spawned": "已生�?{} (LTC)",
+    "ran_steps": "已运�?{} �?, "extracted": "已取�? {}", "loaded": "已载�? {}", "loaded": "已载�? {}",
+    "platform_stopped": "平台已关�?, "not_found": "未找�?,
+    "extract_first": "请先取出智能�?, "already_running": "平台已在运行",
     "already_exists": "同名智能体已存在", "step_label": "步数",
-    "agents_label": "智能体", "fps_label": "FPS",
-    "paused_label": "[已暂停]", "idle": "待命中",
-    "exploring": "探索中...", "ate_food": "吃到了食物",
-    "took_damage": "受到了伤害", "hit_wall": "撞到了墙", "saw_food": "发现了食物",
-    "starving": "饥饿", "hungry": "饿了", "peckish": "有点饿", "full": "饱足",
+    "agents_label": "智能�?, "fps_label": "FPS",
+    "paused_label": "[已暂停]", "idle": "待命�?,
+    "exploring": "探索�?..", "ate_food": "吃到了食�?,
+    "took_damage": "受到了伤�?, "hit_wall": "撞到了墙", "saw_food": "发现了食�?,
+    "starving": "饥饿", "hungry": "饿了", "peckish": "有点�?, "full": "饱足",
     "familiar": "熟悉", "curious": "好奇", "restless": "不安", "bored": "无聊",
-    "safe": "安全", "alert": "警觉", "scared": "害怕", "terrified": "恐惧",
+    "safe": "安全", "alert": "警觉", "scared": "害�?, "terrified": "恐惧",
 }
 
 C_BG = (18, 18, 28); C_PANEL_BG = (26, 26, 38); C_TOOLBAR = (32, 32, 48)
@@ -273,10 +273,10 @@ class EvolaPygameLTC:
         self._btn_rects.clear()
         rn = self.platform_running; ha = bool(self.agents)
         btns = [
-            ("微", "sizesel_tiny", not rn),
-            ("小", "sizesel_small", not rn),
-            ("标", "sizesel_std", not rn),
-            ("大", "sizesel_large", not rn),
+            ("�?, "sizesel_tiny", not rn),
+            ("�?, "sizesel_small", not rn),
+            ("�?, "sizesel_std", not rn),
+            ("�?, "sizesel_large", not rn),
             (T["start"], "start", not rn), (T["spawn"], "spawn", rn and not self.auto_step),
             (T["load"], "load", rn and not self.auto_step),
             (T["run100"], "run100", rn and not self.auto_step),
@@ -376,3 +376,4 @@ class EvolaPygameLTC:
 
 if __name__ == "__main__":
     EvolaPygameLTC().run()
+

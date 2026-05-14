@@ -1,4 +1,4 @@
-"""Evola MVP 2 Pygame — Full P0+P1+P2 integration.
+"""Evola MVP 2 Pygame �?Full P0+P1+P2 integration.
 
 Launch: python MVPs/MVP2/evola_pygame.py
 """
@@ -10,10 +10,10 @@ from collections import deque
 _BASE = os.path.dirname(os.path.abspath(__file__))
 _PROJ = os.path.dirname(os.path.dirname(_BASE))
 
-sys.path.insert(0, os.path.join(_PROJ, "verification", "08_kunyu", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "02_homeostasis", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "09_junjian", "impl"))
-sys.path.insert(0, os.path.join(_PROJ, "verification", "10_sensorimotor", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "08_kunyu", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "02_homeostasis", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "09_junjian", "impl"))
+sys.path.insert(0, os.path.join(_PROJ, "verification", "V0.1", "10_sensorimotor", "impl"))
 
 import numpy as np
 import pygame
@@ -31,7 +31,7 @@ T = {
     "iq": "IQ评分", "stop_btn": "关闭", "quit_btn": "退出",
     "energy": "能量", "novelty": "好奇", "safety": "安全",
     "visited": "足迹", "events": "事件", "memory": "记忆",
-    "privacy": "— — 钧鉴·明镜 — —", "level": "LTC+记忆+世界模型",
+    "privacy": " 钧鉴 明镜 ", "level": "LTC+记忆+世界模型",
     "debug_on": "调试中", "no_agents": "暂无智能体",
     "start_first": "请先启动平台",
     "platform_started": "MVP2 平台已启动: {}x{}", "spawned": "已生成 {} (P2)",
@@ -427,3 +427,4 @@ class EvolaPygameP2:
 
 if __name__ == "__main__":
     EvolaPygameP2().run()
+
