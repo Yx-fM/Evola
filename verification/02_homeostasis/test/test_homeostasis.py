@@ -119,8 +119,7 @@ class TestHomeostasis:
         h = Homeostasis(total_cells=100)
         h.energy.value = 0.3
         h.safety.value = 0.7
-        drive = h.get_drive()
-        labels = drive.labels()
+        labels = h.get_state()["labels"]
         assert labels["energy"] in ("starving", "hungry")
         assert labels["safety"] in ("alert", "scared")
 

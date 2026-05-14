@@ -129,6 +129,7 @@ class KunyuWorld:
         obs = self.get_obs(aid)
         info = {
             "agent_id": aid,
+            "agent_pos": rec.pos,
             "energy_gained": float(food_eaten) * self.cfg.energy_per_food,
             "damage_taken": float(damage_taken) * self.cfg.damage_per_danger,
             "collision": collision,

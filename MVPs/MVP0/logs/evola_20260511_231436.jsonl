@@ -1,0 +1,200 @@
+{"type": "step.begin", "step": 1, "agent_id": "evo_001", "agent_pos": [4, 19], "action": "LEFT"}
+{"type": "step.outcome", "step": 1, "agent_id": "evo_001", "agent_pos": [4, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 2, "agent_id": "evo_001", "agent_pos": [4, 18], "action": "RIGHT"}
+{"type": "step.outcome", "step": 2, "agent_id": "evo_001", "agent_pos": [4, 19], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 3, "agent_id": "evo_001", "agent_pos": [4, 19], "action": "RIGHT"}
+{"type": "step.outcome", "step": 3, "agent_id": "evo_001", "agent_pos": [4, 19], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 4, "agent_id": "evo_001", "agent_pos": [4, 19], "action": "RIGHT"}
+{"type": "step.outcome", "step": 4, "agent_id": "evo_001", "agent_pos": [4, 19], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 5, "agent_id": "evo_001", "agent_pos": [4, 19], "action": "WAIT"}
+{"type": "step.outcome", "step": 5, "agent_id": "evo_001", "agent_pos": [4, 19], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 6, "agent_id": "evo_001", "agent_pos": [4, 19], "action": "DOWN"}
+{"type": "step.outcome", "step": 6, "agent_id": "evo_001", "agent_pos": [5, 19], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 7, "agent_id": "evo_001", "agent_pos": [5, 19], "action": "RIGHT"}
+{"type": "step.outcome", "step": 7, "agent_id": "evo_001", "agent_pos": [5, 19], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 8, "agent_id": "evo_001", "agent_pos": [5, 19], "action": "DOWN"}
+{"type": "step.outcome", "step": 8, "agent_id": "evo_001", "agent_pos": [6, 19], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 9, "agent_id": "evo_001", "agent_pos": [6, 19], "action": "RIGHT"}
+{"type": "step.outcome", "step": 9, "agent_id": "evo_001", "agent_pos": [6, 19], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 10, "agent_id": "evo_001", "agent_pos": [6, 19], "action": "WAIT"}
+{"type": "step.outcome", "step": 10, "agent_id": "evo_001", "agent_pos": [6, 19], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 11, "agent_id": "evo_001", "agent_pos": [6, 19], "action": "UP"}
+{"type": "step.outcome", "step": 11, "agent_id": "evo_001", "agent_pos": [5, 19], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 12, "agent_id": "evo_001", "agent_pos": [5, 19], "action": "LEFT"}
+{"type": "step.outcome", "step": 12, "agent_id": "evo_001", "agent_pos": [5, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 13, "agent_id": "evo_001", "agent_pos": [5, 18], "action": "UP"}
+{"type": "step.outcome", "step": 13, "agent_id": "evo_001", "agent_pos": [4, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 14, "agent_id": "evo_001", "agent_pos": [4, 18], "action": "LEFT"}
+{"type": "step.outcome", "step": 14, "agent_id": "evo_001", "agent_pos": [4, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 15, "agent_id": "evo_001", "agent_pos": [4, 17], "action": "DOWN"}
+{"type": "step.outcome", "step": 15, "agent_id": "evo_001", "agent_pos": [5, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 16, "agent_id": "evo_001", "agent_pos": [5, 17], "action": "UP"}
+{"type": "step.outcome", "step": 16, "agent_id": "evo_001", "agent_pos": [4, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 17, "agent_id": "evo_001", "agent_pos": [4, 17], "action": "RIGHT"}
+{"type": "step.outcome", "step": 17, "agent_id": "evo_001", "agent_pos": [4, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 18, "agent_id": "evo_001", "agent_pos": [4, 18], "action": "LEFT"}
+{"type": "step.outcome", "step": 18, "agent_id": "evo_001", "agent_pos": [4, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 19, "agent_id": "evo_001", "agent_pos": [4, 17], "action": "WAIT"}
+{"type": "step.outcome", "step": 19, "agent_id": "evo_001", "agent_pos": [4, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 20, "agent_id": "evo_001", "agent_pos": [4, 17], "action": "LEFT"}
+{"type": "step.outcome", "step": 20, "agent_id": "evo_001", "agent_pos": [4, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 21, "agent_id": "evo_001", "agent_pos": [4, 16], "action": "LEFT"}
+{"type": "step.outcome", "step": 21, "agent_id": "evo_001", "agent_pos": [4, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 22, "agent_id": "evo_001", "agent_pos": [4, 15], "action": "EAT"}
+{"type": "step.outcome", "step": 22, "agent_id": "evo_001", "agent_pos": [4, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 23, "agent_id": "evo_001", "agent_pos": [4, 15], "action": "UP"}
+{"type": "step.outcome", "step": 23, "agent_id": "evo_001", "agent_pos": [3, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 24, "agent_id": "evo_001", "agent_pos": [3, 15], "action": "LEFT"}
+{"type": "step.outcome", "step": 24, "agent_id": "evo_001", "agent_pos": [3, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 25, "agent_id": "evo_001", "agent_pos": [3, 14], "action": "DOWN"}
+{"type": "step.outcome", "step": 25, "agent_id": "evo_001", "agent_pos": [4, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 26, "agent_id": "evo_001", "agent_pos": [4, 14], "action": "DOWN"}
+{"type": "step.outcome", "step": 26, "agent_id": "evo_001", "agent_pos": [5, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 27, "agent_id": "evo_001", "agent_pos": [5, 14], "action": "LEFT"}
+{"type": "step.outcome", "step": 27, "agent_id": "evo_001", "agent_pos": [5, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 28, "agent_id": "evo_001", "agent_pos": [5, 13], "action": "UP"}
+{"type": "step.outcome", "step": 28, "agent_id": "evo_001", "agent_pos": [4, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 29, "agent_id": "evo_001", "agent_pos": [4, 13], "action": "LEFT"}
+{"type": "step.outcome", "step": 29, "agent_id": "evo_001", "agent_pos": [4, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 30, "agent_id": "evo_001", "agent_pos": [4, 12], "action": "UP"}
+{"type": "step.outcome", "step": 30, "agent_id": "evo_001", "agent_pos": [3, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 31, "agent_id": "evo_001", "agent_pos": [3, 12], "action": "UP"}
+{"type": "step.outcome", "step": 31, "agent_id": "evo_001", "agent_pos": [2, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 32, "agent_id": "evo_001", "agent_pos": [2, 12], "action": "WAIT"}
+{"type": "step.outcome", "step": 32, "agent_id": "evo_001", "agent_pos": [2, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 33, "agent_id": "evo_001", "agent_pos": [2, 12], "action": "LEFT"}
+{"type": "step.outcome", "step": 33, "agent_id": "evo_001", "agent_pos": [2, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 34, "agent_id": "evo_001", "agent_pos": [2, 11], "action": "RIGHT"}
+{"type": "step.outcome", "step": 34, "agent_id": "evo_001", "agent_pos": [2, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 35, "agent_id": "evo_001", "agent_pos": [2, 12], "action": "DOWN"}
+{"type": "step.outcome", "step": 35, "agent_id": "evo_001", "agent_pos": [3, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 36, "agent_id": "evo_001", "agent_pos": [3, 12], "action": "RIGHT"}
+{"type": "step.outcome", "step": 36, "agent_id": "evo_001", "agent_pos": [3, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 37, "agent_id": "evo_001", "agent_pos": [3, 13], "action": "WAIT"}
+{"type": "step.outcome", "step": 37, "agent_id": "evo_001", "agent_pos": [3, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 38, "agent_id": "evo_001", "agent_pos": [3, 13], "action": "EAT"}
+{"type": "step.outcome", "step": 38, "agent_id": "evo_001", "agent_pos": [3, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 39, "agent_id": "evo_001", "agent_pos": [3, 13], "action": "WAIT"}
+{"type": "step.outcome", "step": 39, "agent_id": "evo_001", "agent_pos": [3, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 40, "agent_id": "evo_001", "agent_pos": [3, 13], "action": "EAT"}
+{"type": "step.outcome", "step": 40, "agent_id": "evo_001", "agent_pos": [3, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 41, "agent_id": "evo_001", "agent_pos": [3, 13], "action": "WAIT"}
+{"type": "step.outcome", "step": 41, "agent_id": "evo_001", "agent_pos": [3, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 42, "agent_id": "evo_001", "agent_pos": [3, 13], "action": "LEFT"}
+{"type": "step.outcome", "step": 42, "agent_id": "evo_001", "agent_pos": [3, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 43, "agent_id": "evo_001", "agent_pos": [3, 12], "action": "DOWN"}
+{"type": "step.outcome", "step": 43, "agent_id": "evo_001", "agent_pos": [4, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 44, "agent_id": "evo_001", "agent_pos": [4, 12], "action": "UP"}
+{"type": "step.outcome", "step": 44, "agent_id": "evo_001", "agent_pos": [3, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 45, "agent_id": "evo_001", "agent_pos": [3, 12], "action": "RIGHT"}
+{"type": "step.outcome", "step": 45, "agent_id": "evo_001", "agent_pos": [3, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 46, "agent_id": "evo_001", "agent_pos": [3, 13], "action": "RIGHT"}
+{"type": "step.outcome", "step": 46, "agent_id": "evo_001", "agent_pos": [3, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 47, "agent_id": "evo_001", "agent_pos": [3, 14], "action": "RIGHT"}
+{"type": "step.outcome", "step": 47, "agent_id": "evo_001", "agent_pos": [3, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 48, "agent_id": "evo_001", "agent_pos": [3, 15], "action": "RIGHT"}
+{"type": "step.outcome", "step": 48, "agent_id": "evo_001", "agent_pos": [3, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 49, "agent_id": "evo_001", "agent_pos": [3, 16], "action": "WAIT"}
+{"type": "step.outcome", "step": 49, "agent_id": "evo_001", "agent_pos": [3, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 50, "agent_id": "evo_001", "agent_pos": [3, 16], "action": "WAIT"}
+{"type": "step.outcome", "step": 50, "agent_id": "evo_001", "agent_pos": [3, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 51, "agent_id": "evo_001", "agent_pos": [3, 16], "action": "LEFT"}
+{"type": "step.outcome", "step": 51, "agent_id": "evo_001", "agent_pos": [3, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 52, "agent_id": "evo_001", "agent_pos": [3, 15], "action": "EAT"}
+{"type": "step.outcome", "step": 52, "agent_id": "evo_001", "agent_pos": [3, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 53, "agent_id": "evo_001", "agent_pos": [3, 15], "action": "WAIT"}
+{"type": "step.outcome", "step": 53, "agent_id": "evo_001", "agent_pos": [3, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 54, "agent_id": "evo_001", "agent_pos": [3, 15], "action": "LEFT"}
+{"type": "step.outcome", "step": 54, "agent_id": "evo_001", "agent_pos": [3, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 55, "agent_id": "evo_001", "agent_pos": [3, 14], "action": "WAIT"}
+{"type": "step.outcome", "step": 55, "agent_id": "evo_001", "agent_pos": [3, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 56, "agent_id": "evo_001", "agent_pos": [3, 14], "action": "RIGHT"}
+{"type": "step.outcome", "step": 56, "agent_id": "evo_001", "agent_pos": [3, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 57, "agent_id": "evo_001", "agent_pos": [3, 15], "action": "LEFT"}
+{"type": "step.outcome", "step": 57, "agent_id": "evo_001", "agent_pos": [3, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 58, "agent_id": "evo_001", "agent_pos": [3, 14], "action": "EAT"}
+{"type": "step.outcome", "step": 58, "agent_id": "evo_001", "agent_pos": [3, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 59, "agent_id": "evo_001", "agent_pos": [3, 14], "action": "UP"}
+{"type": "step.outcome", "step": 59, "agent_id": "evo_001", "agent_pos": [2, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 60, "agent_id": "evo_001", "agent_pos": [2, 14], "action": "LEFT"}
+{"type": "step.outcome", "step": 60, "agent_id": "evo_001", "agent_pos": [2, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 61, "agent_id": "evo_001", "agent_pos": [2, 13], "action": "EAT"}
+{"type": "step.outcome", "step": 61, "agent_id": "evo_001", "agent_pos": [2, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 62, "agent_id": "evo_001", "agent_pos": [2, 13], "action": "DOWN"}
+{"type": "step.outcome", "step": 62, "agent_id": "evo_001", "agent_pos": [3, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 63, "agent_id": "evo_001", "agent_pos": [3, 13], "action": "LEFT"}
+{"type": "step.outcome", "step": 63, "agent_id": "evo_001", "agent_pos": [3, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 64, "agent_id": "evo_001", "agent_pos": [3, 12], "action": "EAT"}
+{"type": "step.outcome", "step": 64, "agent_id": "evo_001", "agent_pos": [3, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 65, "agent_id": "evo_001", "agent_pos": [3, 12], "action": "DOWN"}
+{"type": "step.outcome", "step": 65, "agent_id": "evo_001", "agent_pos": [4, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 66, "agent_id": "evo_001", "agent_pos": [4, 12], "action": "LEFT"}
+{"type": "step.outcome", "step": 66, "agent_id": "evo_001", "agent_pos": [4, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 67, "agent_id": "evo_001", "agent_pos": [4, 11], "action": "EAT"}
+{"type": "step.outcome", "step": 67, "agent_id": "evo_001", "agent_pos": [4, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 68, "agent_id": "evo_001", "agent_pos": [4, 11], "action": "RIGHT"}
+{"type": "step.outcome", "step": 68, "agent_id": "evo_001", "agent_pos": [4, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 69, "agent_id": "evo_001", "agent_pos": [4, 12], "action": "EAT"}
+{"type": "step.outcome", "step": 69, "agent_id": "evo_001", "agent_pos": [4, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 70, "agent_id": "evo_001", "agent_pos": [4, 12], "action": "RIGHT"}
+{"type": "step.outcome", "step": 70, "agent_id": "evo_001", "agent_pos": [4, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 71, "agent_id": "evo_001", "agent_pos": [4, 13], "action": "RIGHT"}
+{"type": "step.outcome", "step": 71, "agent_id": "evo_001", "agent_pos": [4, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 72, "agent_id": "evo_001", "agent_pos": [4, 14], "action": "WAIT"}
+{"type": "step.outcome", "step": 72, "agent_id": "evo_001", "agent_pos": [4, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 73, "agent_id": "evo_001", "agent_pos": [4, 14], "action": "RIGHT"}
+{"type": "step.outcome", "step": 73, "agent_id": "evo_001", "agent_pos": [4, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 74, "agent_id": "evo_001", "agent_pos": [4, 15], "action": "RIGHT"}
+{"type": "step.outcome", "step": 74, "agent_id": "evo_001", "agent_pos": [4, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 75, "agent_id": "evo_001", "agent_pos": [4, 16], "action": "RIGHT"}
+{"type": "step.outcome", "step": 75, "agent_id": "evo_001", "agent_pos": [4, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 76, "agent_id": "evo_001", "agent_pos": [4, 17], "action": "LEFT"}
+{"type": "step.outcome", "step": 76, "agent_id": "evo_001", "agent_pos": [4, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 77, "agent_id": "evo_001", "agent_pos": [4, 16], "action": "LEFT"}
+{"type": "step.outcome", "step": 77, "agent_id": "evo_001", "agent_pos": [4, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 78, "agent_id": "evo_001", "agent_pos": [4, 15], "action": "UP"}
+{"type": "step.outcome", "step": 78, "agent_id": "evo_001", "agent_pos": [3, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 79, "agent_id": "evo_001", "agent_pos": [3, 15], "action": "RIGHT"}
+{"type": "step.outcome", "step": 79, "agent_id": "evo_001", "agent_pos": [3, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 80, "agent_id": "evo_001", "agent_pos": [3, 16], "action": "EAT"}
+{"type": "step.outcome", "step": 80, "agent_id": "evo_001", "agent_pos": [3, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 81, "agent_id": "evo_001", "agent_pos": [3, 16], "action": "EAT"}
+{"type": "step.outcome", "step": 81, "agent_id": "evo_001", "agent_pos": [3, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 82, "agent_id": "evo_001", "agent_pos": [3, 16], "action": "DOWN"}
+{"type": "step.outcome", "step": 82, "agent_id": "evo_001", "agent_pos": [4, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 83, "agent_id": "evo_001", "agent_pos": [4, 16], "action": "LEFT"}
+{"type": "step.outcome", "step": 83, "agent_id": "evo_001", "agent_pos": [4, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 84, "agent_id": "evo_001", "agent_pos": [4, 15], "action": "DOWN"}
+{"type": "step.outcome", "step": 84, "agent_id": "evo_001", "agent_pos": [5, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 85, "agent_id": "evo_001", "agent_pos": [5, 15], "action": "DOWN"}
+{"type": "step.outcome", "step": 85, "agent_id": "evo_001", "agent_pos": [6, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 86, "agent_id": "evo_001", "agent_pos": [6, 15], "action": "RIGHT"}
+{"type": "step.outcome", "step": 86, "agent_id": "evo_001", "agent_pos": [6, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 87, "agent_id": "evo_001", "agent_pos": [6, 16], "action": "DOWN"}
+{"type": "step.outcome", "step": 87, "agent_id": "evo_001", "agent_pos": [7, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 88, "agent_id": "evo_001", "agent_pos": [7, 16], "action": "EAT"}
+{"type": "step.outcome", "step": 88, "agent_id": "evo_001", "agent_pos": [7, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 89, "agent_id": "evo_001", "agent_pos": [7, 16], "action": "WAIT"}
+{"type": "step.outcome", "step": 89, "agent_id": "evo_001", "agent_pos": [7, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 90, "agent_id": "evo_001", "agent_pos": [7, 16], "action": "RIGHT"}
+{"type": "step.outcome", "step": 90, "agent_id": "evo_001", "agent_pos": [7, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 91, "agent_id": "evo_001", "agent_pos": [7, 16], "action": "UP"}
+{"type": "step.outcome", "step": 91, "agent_id": "evo_001", "agent_pos": [6, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 92, "agent_id": "evo_001", "agent_pos": [6, 16], "action": "WAIT"}
+{"type": "step.outcome", "step": 92, "agent_id": "evo_001", "agent_pos": [6, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 93, "agent_id": "evo_001", "agent_pos": [6, 16], "action": "DOWN"}
+{"type": "step.outcome", "step": 93, "agent_id": "evo_001", "agent_pos": [7, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 94, "agent_id": "evo_001", "agent_pos": [7, 16], "action": "UP"}
+{"type": "step.outcome", "step": 94, "agent_id": "evo_001", "agent_pos": [6, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 95, "agent_id": "evo_001", "agent_pos": [6, 16], "action": "EAT"}
+{"type": "step.outcome", "step": 95, "agent_id": "evo_001", "agent_pos": [6, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 96, "agent_id": "evo_001", "agent_pos": [6, 16], "action": "UP"}
+{"type": "step.outcome", "step": 96, "agent_id": "evo_001", "agent_pos": [5, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 97, "agent_id": "evo_001", "agent_pos": [5, 16], "action": "DOWN"}
+{"type": "step.outcome", "step": 97, "agent_id": "evo_001", "agent_pos": [6, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 98, "agent_id": "evo_001", "agent_pos": [6, 16], "action": "UP"}
+{"type": "step.outcome", "step": 98, "agent_id": "evo_001", "agent_pos": [5, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 99, "agent_id": "evo_001", "agent_pos": [5, 16], "action": "EAT"}
+{"type": "step.outcome", "step": 99, "agent_id": "evo_001", "agent_pos": [5, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 100, "agent_id": "evo_001", "agent_pos": [5, 16], "action": "UP"}
+{"type": "step.outcome", "step": 100, "agent_id": "evo_001", "agent_pos": [4, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}

@@ -1,0 +1,2 @@
+{"type": "step.begin", "step": 1, "agent_id": "evo_1", "agent_pos": [2, 12], "action": "RIGHT"}
+{"type": "step.outcome", "step": 1, "agent_id": "evo_1", "agent_pos": [2, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}

@@ -70,9 +70,11 @@ class Homeostasis:
         if damage > 0:
             self.energy.deplete(damage * 2.0)
 
-        # Novelty: track how many cells visited
-        agent_pos = info.get("agent_pos")
-        if agent_pos is not None:
+        # Novelty: track unique visited cells
+        nv = info.get("_novelty_visited_count")
+        if nv is not None:
+            self.novelty.set_visited(nv)
+        elif info.get("agent_pos") is not None:
             self.novelty.visit()
 
         # Safety: update based on whether danger is nearby
@@ -94,5 +96,15 @@ class Homeostasis:
             "novelty": self.novelty.value,
             "safety": self.safety.value,
             "drive": drive.as_dict(),
-            "labels": drive.labels(),
+            "labels": {
+                "energy": _label(self.energy.value, [
+                    (0.2, "starving"), (0.5, "hungry"), (0.8, "peckish"), (1.0, "full")
+                ]),
+                "novelty": _label(self.novelty.value, [
+                    (0.3, "familiar"), (0.5, "curious"), (0.8, "restless"), (1.0, "bored")
+                ]),
+                "safety": _label(self.safety.value, [
+                    (0.2, "safe"), (0.5, "alert"), (0.8, "scared"), (1.0, "terrified")
+                ]),
+            },
         }

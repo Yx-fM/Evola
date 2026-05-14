@@ -1,0 +1,600 @@
+{"type": "step.begin", "step": 1, "agent_id": "test", "agent_pos": [9, 11], "action": "UP"}
+{"type": "step.outcome", "step": 1, "agent_id": "test", "agent_pos": [8, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 2, "agent_id": "test", "agent_pos": [8, 11], "action": "EAT"}
+{"type": "step.outcome", "step": 2, "agent_id": "test", "agent_pos": [8, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 3, "agent_id": "test", "agent_pos": [8, 11], "action": "EAT"}
+{"type": "step.outcome", "step": 3, "agent_id": "test", "agent_pos": [8, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 4, "agent_id": "test", "agent_pos": [8, 11], "action": "LEFT"}
+{"type": "step.outcome", "step": 4, "agent_id": "test", "agent_pos": [8, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 5, "agent_id": "test", "agent_pos": [8, 10], "action": "WAIT"}
+{"type": "step.outcome", "step": 5, "agent_id": "test", "agent_pos": [8, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 6, "agent_id": "test", "agent_pos": [8, 10], "action": "EAT"}
+{"type": "step.outcome", "step": 6, "agent_id": "test", "agent_pos": [8, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 7, "agent_id": "test", "agent_pos": [8, 10], "action": "EAT"}
+{"type": "step.outcome", "step": 7, "agent_id": "test", "agent_pos": [8, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 8, "agent_id": "test", "agent_pos": [8, 10], "action": "EAT"}
+{"type": "step.outcome", "step": 8, "agent_id": "test", "agent_pos": [8, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 9, "agent_id": "test", "agent_pos": [8, 10], "action": "EAT"}
+{"type": "step.outcome", "step": 9, "agent_id": "test", "agent_pos": [8, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 10, "agent_id": "test", "agent_pos": [8, 10], "action": "WAIT"}
+{"type": "step.outcome", "step": 10, "agent_id": "test", "agent_pos": [8, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 11, "agent_id": "test", "agent_pos": [8, 10], "action": "LEFT"}
+{"type": "step.outcome", "step": 11, "agent_id": "test", "agent_pos": [8, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 12, "agent_id": "test", "agent_pos": [8, 9], "action": "DOWN"}
+{"type": "step.outcome", "step": 12, "agent_id": "test", "agent_pos": [9, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 13, "agent_id": "test", "agent_pos": [9, 9], "action": "EAT"}
+{"type": "step.outcome", "step": 13, "agent_id": "test", "agent_pos": [9, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 14, "agent_id": "test", "agent_pos": [9, 9], "action": "WAIT"}
+{"type": "step.outcome", "step": 14, "agent_id": "test", "agent_pos": [9, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 15, "agent_id": "test", "agent_pos": [9, 9], "action": "RIGHT"}
+{"type": "step.outcome", "step": 15, "agent_id": "test", "agent_pos": [9, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 16, "agent_id": "test", "agent_pos": [9, 10], "action": "EAT"}
+{"type": "step.outcome", "step": 16, "agent_id": "test", "agent_pos": [9, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 17, "agent_id": "test", "agent_pos": [9, 10], "action": "EAT"}
+{"type": "step.outcome", "step": 17, "agent_id": "test", "agent_pos": [9, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 18, "agent_id": "test", "agent_pos": [9, 10], "action": "EAT"}
+{"type": "step.outcome", "step": 18, "agent_id": "test", "agent_pos": [9, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 19, "agent_id": "test", "agent_pos": [9, 10], "action": "EAT"}
+{"type": "step.outcome", "step": 19, "agent_id": "test", "agent_pos": [9, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 20, "agent_id": "test", "agent_pos": [9, 10], "action": "LEFT"}
+{"type": "step.outcome", "step": 20, "agent_id": "test", "agent_pos": [9, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 21, "agent_id": "test", "agent_pos": [9, 9], "action": "UP"}
+{"type": "step.outcome", "step": 21, "agent_id": "test", "agent_pos": [8, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 22, "agent_id": "test", "agent_pos": [8, 9], "action": "EAT"}
+{"type": "step.outcome", "step": 22, "agent_id": "test", "agent_pos": [8, 9], "energy_gained": 0.4, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 23, "agent_id": "test", "agent_pos": [8, 9], "action": "EAT"}
+{"type": "step.outcome", "step": 23, "agent_id": "test", "agent_pos": [8, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 24, "agent_id": "test", "agent_pos": [8, 9], "action": "RIGHT"}
+{"type": "step.outcome", "step": 24, "agent_id": "test", "agent_pos": [8, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 25, "agent_id": "test", "agent_pos": [8, 10], "action": "UP"}
+{"type": "step.outcome", "step": 25, "agent_id": "test", "agent_pos": [7, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 26, "agent_id": "test", "agent_pos": [7, 10], "action": "UP"}
+{"type": "step.outcome", "step": 26, "agent_id": "test", "agent_pos": [6, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 27, "agent_id": "test", "agent_pos": [6, 10], "action": "RIGHT"}
+{"type": "step.outcome", "step": 27, "agent_id": "test", "agent_pos": [6, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 28, "agent_id": "test", "agent_pos": [6, 11], "action": "EAT"}
+{"type": "step.outcome", "step": 28, "agent_id": "test", "agent_pos": [6, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 29, "agent_id": "test", "agent_pos": [6, 11], "action": "EAT"}
+{"type": "step.outcome", "step": 29, "agent_id": "test", "agent_pos": [6, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 30, "agent_id": "test", "agent_pos": [6, 11], "action": "LEFT"}
+{"type": "step.outcome", "step": 30, "agent_id": "test", "agent_pos": [6, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 31, "agent_id": "test", "agent_pos": [6, 10], "action": "DOWN"}
+{"type": "step.outcome", "step": 31, "agent_id": "test", "agent_pos": [7, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 32, "agent_id": "test", "agent_pos": [7, 10], "action": "EAT"}
+{"type": "step.outcome", "step": 32, "agent_id": "test", "agent_pos": [7, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 33, "agent_id": "test", "agent_pos": [7, 10], "action": "WAIT"}
+{"type": "step.outcome", "step": 33, "agent_id": "test", "agent_pos": [7, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 34, "agent_id": "test", "agent_pos": [7, 10], "action": "LEFT"}
+{"type": "step.outcome", "step": 34, "agent_id": "test", "agent_pos": [7, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 35, "agent_id": "test", "agent_pos": [7, 9], "action": "EAT"}
+{"type": "step.outcome", "step": 35, "agent_id": "test", "agent_pos": [7, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 36, "agent_id": "test", "agent_pos": [7, 9], "action": "WAIT"}
+{"type": "step.outcome", "step": 36, "agent_id": "test", "agent_pos": [7, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 37, "agent_id": "test", "agent_pos": [7, 9], "action": "WAIT"}
+{"type": "step.outcome", "step": 37, "agent_id": "test", "agent_pos": [7, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 38, "agent_id": "test", "agent_pos": [7, 9], "action": "WAIT"}
+{"type": "step.outcome", "step": 38, "agent_id": "test", "agent_pos": [7, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 39, "agent_id": "test", "agent_pos": [7, 9], "action": "RIGHT"}
+{"type": "step.outcome", "step": 39, "agent_id": "test", "agent_pos": [7, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 40, "agent_id": "test", "agent_pos": [7, 10], "action": "UP"}
+{"type": "step.outcome", "step": 40, "agent_id": "test", "agent_pos": [6, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 41, "agent_id": "test", "agent_pos": [6, 10], "action": "DOWN"}
+{"type": "step.outcome", "step": 41, "agent_id": "test", "agent_pos": [7, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 42, "agent_id": "test", "agent_pos": [7, 10], "action": "RIGHT"}
+{"type": "step.outcome", "step": 42, "agent_id": "test", "agent_pos": [7, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 43, "agent_id": "test", "agent_pos": [7, 11], "action": "DOWN"}
+{"type": "step.outcome", "step": 43, "agent_id": "test", "agent_pos": [8, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 44, "agent_id": "test", "agent_pos": [8, 11], "action": "WAIT"}
+{"type": "step.outcome", "step": 44, "agent_id": "test", "agent_pos": [8, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 45, "agent_id": "test", "agent_pos": [8, 11], "action": "WAIT"}
+{"type": "step.outcome", "step": 45, "agent_id": "test", "agent_pos": [8, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 46, "agent_id": "test", "agent_pos": [8, 11], "action": "DOWN"}
+{"type": "step.outcome", "step": 46, "agent_id": "test", "agent_pos": [9, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 47, "agent_id": "test", "agent_pos": [9, 11], "action": "EAT"}
+{"type": "step.outcome", "step": 47, "agent_id": "test", "agent_pos": [9, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 48, "agent_id": "test", "agent_pos": [9, 11], "action": "EAT"}
+{"type": "step.outcome", "step": 48, "agent_id": "test", "agent_pos": [9, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 49, "agent_id": "test", "agent_pos": [9, 11], "action": "LEFT"}
+{"type": "step.outcome", "step": 49, "agent_id": "test", "agent_pos": [9, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 50, "agent_id": "test", "agent_pos": [9, 10], "action": "DOWN"}
+{"type": "step.outcome", "step": 50, "agent_id": "test", "agent_pos": [10, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 51, "agent_id": "test", "agent_pos": [10, 10], "action": "WAIT"}
+{"type": "step.outcome", "step": 51, "agent_id": "test", "agent_pos": [10, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 52, "agent_id": "test", "agent_pos": [10, 10], "action": "UP"}
+{"type": "step.outcome", "step": 52, "agent_id": "test", "agent_pos": [9, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 53, "agent_id": "test", "agent_pos": [9, 10], "action": "LEFT"}
+{"type": "step.outcome", "step": 53, "agent_id": "test", "agent_pos": [9, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 54, "agent_id": "test", "agent_pos": [9, 9], "action": "LEFT"}
+{"type": "step.outcome", "step": 54, "agent_id": "test", "agent_pos": [9, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 55, "agent_id": "test", "agent_pos": [9, 8], "action": "LEFT"}
+{"type": "step.outcome", "step": 55, "agent_id": "test", "agent_pos": [9, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 56, "agent_id": "test", "agent_pos": [9, 7], "action": "DOWN"}
+{"type": "step.outcome", "step": 56, "agent_id": "test", "agent_pos": [10, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 57, "agent_id": "test", "agent_pos": [10, 7], "action": "DOWN"}
+{"type": "step.outcome", "step": 57, "agent_id": "test", "agent_pos": [11, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 58, "agent_id": "test", "agent_pos": [11, 7], "action": "RIGHT"}
+{"type": "step.outcome", "step": 58, "agent_id": "test", "agent_pos": [11, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 59, "agent_id": "test", "agent_pos": [11, 8], "action": "UP"}
+{"type": "step.outcome", "step": 59, "agent_id": "test", "agent_pos": [10, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 60, "agent_id": "test", "agent_pos": [10, 8], "action": "EAT"}
+{"type": "step.outcome", "step": 60, "agent_id": "test", "agent_pos": [10, 8], "energy_gained": 0.4, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 61, "agent_id": "test", "agent_pos": [10, 8], "action": "EAT"}
+{"type": "step.outcome", "step": 61, "agent_id": "test", "agent_pos": [10, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 62, "agent_id": "test", "agent_pos": [10, 8], "action": "DOWN"}
+{"type": "step.outcome", "step": 62, "agent_id": "test", "agent_pos": [11, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 63, "agent_id": "test", "agent_pos": [11, 8], "action": "RIGHT"}
+{"type": "step.outcome", "step": 63, "agent_id": "test", "agent_pos": [11, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 64, "agent_id": "test", "agent_pos": [11, 9], "action": "WAIT"}
+{"type": "step.outcome", "step": 64, "agent_id": "test", "agent_pos": [11, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 65, "agent_id": "test", "agent_pos": [11, 9], "action": "WAIT"}
+{"type": "step.outcome", "step": 65, "agent_id": "test", "agent_pos": [11, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 66, "agent_id": "test", "agent_pos": [11, 9], "action": "DOWN"}
+{"type": "step.outcome", "step": 66, "agent_id": "test", "agent_pos": [12, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 67, "agent_id": "test", "agent_pos": [12, 9], "action": "EAT"}
+{"type": "step.outcome", "step": 67, "agent_id": "test", "agent_pos": [12, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 68, "agent_id": "test", "agent_pos": [12, 9], "action": "EAT"}
+{"type": "step.outcome", "step": 68, "agent_id": "test", "agent_pos": [12, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 69, "agent_id": "test", "agent_pos": [12, 9], "action": "EAT"}
+{"type": "step.outcome", "step": 69, "agent_id": "test", "agent_pos": [12, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 70, "agent_id": "test", "agent_pos": [12, 9], "action": "RIGHT"}
+{"type": "step.outcome", "step": 70, "agent_id": "test", "agent_pos": [12, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 71, "agent_id": "test", "agent_pos": [12, 10], "action": "LEFT"}
+{"type": "step.outcome", "step": 71, "agent_id": "test", "agent_pos": [12, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 72, "agent_id": "test", "agent_pos": [12, 9], "action": "LEFT"}
+{"type": "step.outcome", "step": 72, "agent_id": "test", "agent_pos": [12, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 73, "agent_id": "test", "agent_pos": [12, 8], "action": "WAIT"}
+{"type": "step.outcome", "step": 73, "agent_id": "test", "agent_pos": [12, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 74, "agent_id": "test", "agent_pos": [12, 8], "action": "UP"}
+{"type": "step.outcome", "step": 74, "agent_id": "test", "agent_pos": [11, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 75, "agent_id": "test", "agent_pos": [11, 8], "action": "RIGHT"}
+{"type": "step.outcome", "step": 75, "agent_id": "test", "agent_pos": [11, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 76, "agent_id": "test", "agent_pos": [11, 9], "action": "LEFT"}
+{"type": "step.outcome", "step": 76, "agent_id": "test", "agent_pos": [11, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 77, "agent_id": "test", "agent_pos": [11, 8], "action": "DOWN"}
+{"type": "step.outcome", "step": 77, "agent_id": "test", "agent_pos": [12, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 78, "agent_id": "test", "agent_pos": [12, 8], "action": "EAT"}
+{"type": "step.outcome", "step": 78, "agent_id": "test", "agent_pos": [12, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 79, "agent_id": "test", "agent_pos": [12, 8], "action": "DOWN"}
+{"type": "step.outcome", "step": 79, "agent_id": "test", "agent_pos": [13, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 80, "agent_id": "test", "agent_pos": [13, 8], "action": "DOWN"}
+{"type": "step.outcome", "step": 80, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 81, "agent_id": "test", "agent_pos": [14, 8], "action": "WAIT"}
+{"type": "step.outcome", "step": 81, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 82, "agent_id": "test", "agent_pos": [14, 8], "action": "LEFT"}
+{"type": "step.outcome", "step": 82, "agent_id": "test", "agent_pos": [14, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 83, "agent_id": "test", "agent_pos": [14, 7], "action": "RIGHT"}
+{"type": "step.outcome", "step": 83, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 84, "agent_id": "test", "agent_pos": [14, 8], "action": "RIGHT"}
+{"type": "step.outcome", "step": 84, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 85, "agent_id": "test", "agent_pos": [14, 9], "action": "DOWN"}
+{"type": "step.outcome", "step": 85, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 86, "agent_id": "test", "agent_pos": [14, 9], "action": "DOWN"}
+{"type": "step.outcome", "step": 86, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 87, "agent_id": "test", "agent_pos": [14, 9], "action": "LEFT"}
+{"type": "step.outcome", "step": 87, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 88, "agent_id": "test", "agent_pos": [14, 8], "action": "EAT"}
+{"type": "step.outcome", "step": 88, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 89, "agent_id": "test", "agent_pos": [14, 8], "action": "EAT"}
+{"type": "step.outcome", "step": 89, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 90, "agent_id": "test", "agent_pos": [14, 8], "action": "LEFT"}
+{"type": "step.outcome", "step": 90, "agent_id": "test", "agent_pos": [14, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 91, "agent_id": "test", "agent_pos": [14, 7], "action": "WAIT"}
+{"type": "step.outcome", "step": 91, "agent_id": "test", "agent_pos": [14, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 92, "agent_id": "test", "agent_pos": [14, 7], "action": "WAIT"}
+{"type": "step.outcome", "step": 92, "agent_id": "test", "agent_pos": [14, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 93, "agent_id": "test", "agent_pos": [14, 7], "action": "UP"}
+{"type": "step.outcome", "step": 93, "agent_id": "test", "agent_pos": [13, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 94, "agent_id": "test", "agent_pos": [13, 7], "action": "EAT"}
+{"type": "step.outcome", "step": 94, "agent_id": "test", "agent_pos": [13, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 95, "agent_id": "test", "agent_pos": [13, 7], "action": "LEFT"}
+{"type": "step.outcome", "step": 95, "agent_id": "test", "agent_pos": [13, 6], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 96, "agent_id": "test", "agent_pos": [13, 6], "action": "RIGHT"}
+{"type": "step.outcome", "step": 96, "agent_id": "test", "agent_pos": [13, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 97, "agent_id": "test", "agent_pos": [13, 7], "action": "DOWN"}
+{"type": "step.outcome", "step": 97, "agent_id": "test", "agent_pos": [14, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 98, "agent_id": "test", "agent_pos": [14, 7], "action": "RIGHT"}
+{"type": "step.outcome", "step": 98, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 99, "agent_id": "test", "agent_pos": [14, 8], "action": "RIGHT"}
+{"type": "step.outcome", "step": 99, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 100, "agent_id": "test", "agent_pos": [14, 9], "action": "EAT"}
+{"type": "step.outcome", "step": 100, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 101, "agent_id": "test", "agent_pos": [14, 9], "action": "EAT"}
+{"type": "step.outcome", "step": 101, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 102, "agent_id": "test", "agent_pos": [14, 9], "action": "EAT"}
+{"type": "step.outcome", "step": 102, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 103, "agent_id": "test", "agent_pos": [14, 9], "action": "DOWN"}
+{"type": "step.outcome", "step": 103, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 104, "agent_id": "test", "agent_pos": [14, 9], "action": "WAIT"}
+{"type": "step.outcome", "step": 104, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 105, "agent_id": "test", "agent_pos": [14, 9], "action": "RIGHT"}
+{"type": "step.outcome", "step": 105, "agent_id": "test", "agent_pos": [14, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 106, "agent_id": "test", "agent_pos": [14, 10], "action": "UP"}
+{"type": "step.outcome", "step": 106, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 107, "agent_id": "test", "agent_pos": [13, 10], "action": "EAT"}
+{"type": "step.outcome", "step": 107, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.4, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 108, "agent_id": "test", "agent_pos": [13, 10], "action": "EAT"}
+{"type": "step.outcome", "step": 108, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 109, "agent_id": "test", "agent_pos": [13, 10], "action": "WAIT"}
+{"type": "step.outcome", "step": 109, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 110, "agent_id": "test", "agent_pos": [13, 10], "action": "RIGHT"}
+{"type": "step.outcome", "step": 110, "agent_id": "test", "agent_pos": [13, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 111, "agent_id": "test", "agent_pos": [13, 11], "action": "WAIT"}
+{"type": "step.outcome", "step": 111, "agent_id": "test", "agent_pos": [13, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 112, "agent_id": "test", "agent_pos": [13, 11], "action": "LEFT"}
+{"type": "step.outcome", "step": 112, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 113, "agent_id": "test", "agent_pos": [13, 10], "action": "DOWN"}
+{"type": "step.outcome", "step": 113, "agent_id": "test", "agent_pos": [14, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 114, "agent_id": "test", "agent_pos": [14, 10], "action": "WAIT"}
+{"type": "step.outcome", "step": 114, "agent_id": "test", "agent_pos": [14, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 115, "agent_id": "test", "agent_pos": [14, 10], "action": "WAIT"}
+{"type": "step.outcome", "step": 115, "agent_id": "test", "agent_pos": [14, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 116, "agent_id": "test", "agent_pos": [14, 10], "action": "LEFT"}
+{"type": "step.outcome", "step": 116, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 117, "agent_id": "test", "agent_pos": [14, 9], "action": "RIGHT"}
+{"type": "step.outcome", "step": 117, "agent_id": "test", "agent_pos": [14, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 118, "agent_id": "test", "agent_pos": [14, 10], "action": "UP"}
+{"type": "step.outcome", "step": 118, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 119, "agent_id": "test", "agent_pos": [13, 10], "action": "WAIT"}
+{"type": "step.outcome", "step": 119, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 120, "agent_id": "test", "agent_pos": [13, 10], "action": "DOWN"}
+{"type": "step.outcome", "step": 120, "agent_id": "test", "agent_pos": [14, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 121, "agent_id": "test", "agent_pos": [14, 10], "action": "UP"}
+{"type": "step.outcome", "step": 121, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 122, "agent_id": "test", "agent_pos": [13, 10], "action": "DOWN"}
+{"type": "step.outcome", "step": 122, "agent_id": "test", "agent_pos": [14, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 123, "agent_id": "test", "agent_pos": [14, 10], "action": "LEFT"}
+{"type": "step.outcome", "step": 123, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 124, "agent_id": "test", "agent_pos": [14, 9], "action": "UP"}
+{"type": "step.outcome", "step": 124, "agent_id": "test", "agent_pos": [13, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 125, "agent_id": "test", "agent_pos": [13, 9], "action": "UP"}
+{"type": "step.outcome", "step": 125, "agent_id": "test", "agent_pos": [12, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 126, "agent_id": "test", "agent_pos": [12, 9], "action": "DOWN"}
+{"type": "step.outcome", "step": 126, "agent_id": "test", "agent_pos": [13, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 127, "agent_id": "test", "agent_pos": [13, 9], "action": "LEFT"}
+{"type": "step.outcome", "step": 127, "agent_id": "test", "agent_pos": [13, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 128, "agent_id": "test", "agent_pos": [13, 8], "action": "UP"}
+{"type": "step.outcome", "step": 128, "agent_id": "test", "agent_pos": [12, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 129, "agent_id": "test", "agent_pos": [12, 8], "action": "WAIT"}
+{"type": "step.outcome", "step": 129, "agent_id": "test", "agent_pos": [12, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 130, "agent_id": "test", "agent_pos": [12, 8], "action": "WAIT"}
+{"type": "step.outcome", "step": 130, "agent_id": "test", "agent_pos": [12, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 131, "agent_id": "test", "agent_pos": [12, 8], "action": "LEFT"}
+{"type": "step.outcome", "step": 131, "agent_id": "test", "agent_pos": [12, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 132, "agent_id": "test", "agent_pos": [12, 7], "action": "DOWN"}
+{"type": "step.outcome", "step": 132, "agent_id": "test", "agent_pos": [13, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 133, "agent_id": "test", "agent_pos": [13, 7], "action": "LEFT"}
+{"type": "step.outcome", "step": 133, "agent_id": "test", "agent_pos": [13, 6], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 134, "agent_id": "test", "agent_pos": [13, 6], "action": "WAIT"}
+{"type": "step.outcome", "step": 134, "agent_id": "test", "agent_pos": [13, 6], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 135, "agent_id": "test", "agent_pos": [13, 6], "action": "WAIT"}
+{"type": "step.outcome", "step": 135, "agent_id": "test", "agent_pos": [13, 6], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 136, "agent_id": "test", "agent_pos": [13, 6], "action": "WAIT"}
+{"type": "step.outcome", "step": 136, "agent_id": "test", "agent_pos": [13, 6], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 137, "agent_id": "test", "agent_pos": [13, 6], "action": "EAT"}
+{"type": "step.outcome", "step": 137, "agent_id": "test", "agent_pos": [13, 6], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 138, "agent_id": "test", "agent_pos": [13, 6], "action": "RIGHT"}
+{"type": "step.outcome", "step": 138, "agent_id": "test", "agent_pos": [13, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 139, "agent_id": "test", "agent_pos": [13, 7], "action": "EAT"}
+{"type": "step.outcome", "step": 139, "agent_id": "test", "agent_pos": [13, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 140, "agent_id": "test", "agent_pos": [13, 7], "action": "LEFT"}
+{"type": "step.outcome", "step": 140, "agent_id": "test", "agent_pos": [13, 6], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 141, "agent_id": "test", "agent_pos": [13, 6], "action": "RIGHT"}
+{"type": "step.outcome", "step": 141, "agent_id": "test", "agent_pos": [13, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 142, "agent_id": "test", "agent_pos": [13, 7], "action": "UP"}
+{"type": "step.outcome", "step": 142, "agent_id": "test", "agent_pos": [12, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 143, "agent_id": "test", "agent_pos": [12, 7], "action": "LEFT"}
+{"type": "step.outcome", "step": 143, "agent_id": "test", "agent_pos": [12, 6], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 144, "agent_id": "test", "agent_pos": [12, 6], "action": "EAT"}
+{"type": "step.outcome", "step": 144, "agent_id": "test", "agent_pos": [12, 6], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 145, "agent_id": "test", "agent_pos": [12, 6], "action": "DOWN"}
+{"type": "step.outcome", "step": 145, "agent_id": "test", "agent_pos": [13, 6], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 146, "agent_id": "test", "agent_pos": [13, 6], "action": "DOWN"}
+{"type": "step.outcome", "step": 146, "agent_id": "test", "agent_pos": [14, 6], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 147, "agent_id": "test", "agent_pos": [14, 6], "action": "DOWN"}
+{"type": "step.outcome", "step": 147, "agent_id": "test", "agent_pos": [14, 6], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 148, "agent_id": "test", "agent_pos": [14, 6], "action": "EAT"}
+{"type": "step.outcome", "step": 148, "agent_id": "test", "agent_pos": [14, 6], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 149, "agent_id": "test", "agent_pos": [14, 6], "action": "WAIT"}
+{"type": "step.outcome", "step": 149, "agent_id": "test", "agent_pos": [14, 6], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 150, "agent_id": "test", "agent_pos": [14, 6], "action": "RIGHT"}
+{"type": "step.outcome", "step": 150, "agent_id": "test", "agent_pos": [14, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 151, "agent_id": "test", "agent_pos": [14, 7], "action": "DOWN"}
+{"type": "step.outcome", "step": 151, "agent_id": "test", "agent_pos": [14, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 152, "agent_id": "test", "agent_pos": [14, 7], "action": "DOWN"}
+{"type": "step.outcome", "step": 152, "agent_id": "test", "agent_pos": [14, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 153, "agent_id": "test", "agent_pos": [14, 7], "action": "RIGHT"}
+{"type": "step.outcome", "step": 153, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 154, "agent_id": "test", "agent_pos": [14, 8], "action": "WAIT"}
+{"type": "step.outcome", "step": 154, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 155, "agent_id": "test", "agent_pos": [14, 8], "action": "EAT"}
+{"type": "step.outcome", "step": 155, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 156, "agent_id": "test", "agent_pos": [14, 8], "action": "UP"}
+{"type": "step.outcome", "step": 156, "agent_id": "test", "agent_pos": [13, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 157, "agent_id": "test", "agent_pos": [13, 8], "action": "EAT"}
+{"type": "step.outcome", "step": 157, "agent_id": "test", "agent_pos": [13, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 158, "agent_id": "test", "agent_pos": [13, 8], "action": "LEFT"}
+{"type": "step.outcome", "step": 158, "agent_id": "test", "agent_pos": [13, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 159, "agent_id": "test", "agent_pos": [13, 7], "action": "EAT"}
+{"type": "step.outcome", "step": 159, "agent_id": "test", "agent_pos": [13, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 160, "agent_id": "test", "agent_pos": [13, 7], "action": "WAIT"}
+{"type": "step.outcome", "step": 160, "agent_id": "test", "agent_pos": [13, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 161, "agent_id": "test", "agent_pos": [13, 7], "action": "WAIT"}
+{"type": "step.outcome", "step": 161, "agent_id": "test", "agent_pos": [13, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 162, "agent_id": "test", "agent_pos": [13, 7], "action": "EAT"}
+{"type": "step.outcome", "step": 162, "agent_id": "test", "agent_pos": [13, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 163, "agent_id": "test", "agent_pos": [13, 7], "action": "DOWN"}
+{"type": "step.outcome", "step": 163, "agent_id": "test", "agent_pos": [14, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 164, "agent_id": "test", "agent_pos": [14, 7], "action": "DOWN"}
+{"type": "step.outcome", "step": 164, "agent_id": "test", "agent_pos": [14, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 165, "agent_id": "test", "agent_pos": [14, 7], "action": "WAIT"}
+{"type": "step.outcome", "step": 165, "agent_id": "test", "agent_pos": [14, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 166, "agent_id": "test", "agent_pos": [14, 7], "action": "RIGHT"}
+{"type": "step.outcome", "step": 166, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 167, "agent_id": "test", "agent_pos": [14, 8], "action": "EAT"}
+{"type": "step.outcome", "step": 167, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 168, "agent_id": "test", "agent_pos": [14, 8], "action": "EAT"}
+{"type": "step.outcome", "step": 168, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 169, "agent_id": "test", "agent_pos": [14, 8], "action": "DOWN"}
+{"type": "step.outcome", "step": 169, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 170, "agent_id": "test", "agent_pos": [14, 8], "action": "LEFT"}
+{"type": "step.outcome", "step": 170, "agent_id": "test", "agent_pos": [14, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 171, "agent_id": "test", "agent_pos": [14, 7], "action": "EAT"}
+{"type": "step.outcome", "step": 171, "agent_id": "test", "agent_pos": [14, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 172, "agent_id": "test", "agent_pos": [14, 7], "action": "RIGHT"}
+{"type": "step.outcome", "step": 172, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 173, "agent_id": "test", "agent_pos": [14, 8], "action": "DOWN"}
+{"type": "step.outcome", "step": 173, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 174, "agent_id": "test", "agent_pos": [14, 8], "action": "WAIT"}
+{"type": "step.outcome", "step": 174, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 175, "agent_id": "test", "agent_pos": [14, 8], "action": "UP"}
+{"type": "step.outcome", "step": 175, "agent_id": "test", "agent_pos": [13, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 176, "agent_id": "test", "agent_pos": [13, 8], "action": "LEFT"}
+{"type": "step.outcome", "step": 176, "agent_id": "test", "agent_pos": [13, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 177, "agent_id": "test", "agent_pos": [13, 7], "action": "RIGHT"}
+{"type": "step.outcome", "step": 177, "agent_id": "test", "agent_pos": [13, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 178, "agent_id": "test", "agent_pos": [13, 8], "action": "DOWN"}
+{"type": "step.outcome", "step": 178, "agent_id": "test", "agent_pos": [14, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 179, "agent_id": "test", "agent_pos": [14, 8], "action": "UP"}
+{"type": "step.outcome", "step": 179, "agent_id": "test", "agent_pos": [13, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 180, "agent_id": "test", "agent_pos": [13, 8], "action": "WAIT"}
+{"type": "step.outcome", "step": 180, "agent_id": "test", "agent_pos": [13, 8], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 181, "agent_id": "test", "agent_pos": [13, 8], "action": "RIGHT"}
+{"type": "step.outcome", "step": 181, "agent_id": "test", "agent_pos": [13, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 182, "agent_id": "test", "agent_pos": [13, 9], "action": "DOWN"}
+{"type": "step.outcome", "step": 182, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 183, "agent_id": "test", "agent_pos": [14, 9], "action": "DOWN"}
+{"type": "step.outcome", "step": 183, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 184, "agent_id": "test", "agent_pos": [14, 9], "action": "RIGHT"}
+{"type": "step.outcome", "step": 184, "agent_id": "test", "agent_pos": [14, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 185, "agent_id": "test", "agent_pos": [14, 10], "action": "LEFT"}
+{"type": "step.outcome", "step": 185, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 186, "agent_id": "test", "agent_pos": [14, 9], "action": "EAT"}
+{"type": "step.outcome", "step": 186, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 187, "agent_id": "test", "agent_pos": [14, 9], "action": "WAIT"}
+{"type": "step.outcome", "step": 187, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 188, "agent_id": "test", "agent_pos": [14, 9], "action": "DOWN"}
+{"type": "step.outcome", "step": 188, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 189, "agent_id": "test", "agent_pos": [14, 9], "action": "WAIT"}
+{"type": "step.outcome", "step": 189, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 190, "agent_id": "test", "agent_pos": [14, 9], "action": "DOWN"}
+{"type": "step.outcome", "step": 190, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 191, "agent_id": "test", "agent_pos": [14, 9], "action": "WAIT"}
+{"type": "step.outcome", "step": 191, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 192, "agent_id": "test", "agent_pos": [14, 9], "action": "EAT"}
+{"type": "step.outcome", "step": 192, "agent_id": "test", "agent_pos": [14, 9], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 193, "agent_id": "test", "agent_pos": [14, 9], "action": "RIGHT"}
+{"type": "step.outcome", "step": 193, "agent_id": "test", "agent_pos": [14, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 194, "agent_id": "test", "agent_pos": [14, 10], "action": "UP"}
+{"type": "step.outcome", "step": 194, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 195, "agent_id": "test", "agent_pos": [13, 10], "action": "WAIT"}
+{"type": "step.outcome", "step": 195, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 196, "agent_id": "test", "agent_pos": [13, 10], "action": "WAIT"}
+{"type": "step.outcome", "step": 196, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 197, "agent_id": "test", "agent_pos": [13, 10], "action": "RIGHT"}
+{"type": "step.outcome", "step": 197, "agent_id": "test", "agent_pos": [13, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 198, "agent_id": "test", "agent_pos": [13, 11], "action": "LEFT"}
+{"type": "step.outcome", "step": 198, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 199, "agent_id": "test", "agent_pos": [13, 10], "action": "EAT"}
+{"type": "step.outcome", "step": 199, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 200, "agent_id": "test", "agent_pos": [13, 10], "action": "WAIT"}
+{"type": "step.outcome", "step": 200, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 201, "agent_id": "test", "agent_pos": [13, 10], "action": "WAIT"}
+{"type": "step.outcome", "step": 201, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 202, "agent_id": "test", "agent_pos": [13, 10], "action": "RIGHT"}
+{"type": "step.outcome", "step": 202, "agent_id": "test", "agent_pos": [13, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 203, "agent_id": "test", "agent_pos": [13, 11], "action": "EAT"}
+{"type": "step.outcome", "step": 203, "agent_id": "test", "agent_pos": [13, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 204, "agent_id": "test", "agent_pos": [13, 11], "action": "RIGHT"}
+{"type": "step.outcome", "step": 204, "agent_id": "test", "agent_pos": [13, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 205, "agent_id": "test", "agent_pos": [13, 12], "action": "LEFT"}
+{"type": "step.outcome", "step": 205, "agent_id": "test", "agent_pos": [13, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 206, "agent_id": "test", "agent_pos": [13, 11], "action": "LEFT"}
+{"type": "step.outcome", "step": 206, "agent_id": "test", "agent_pos": [13, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 207, "agent_id": "test", "agent_pos": [13, 10], "action": "DOWN"}
+{"type": "step.outcome", "step": 207, "agent_id": "test", "agent_pos": [14, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 208, "agent_id": "test", "agent_pos": [14, 10], "action": "DOWN"}
+{"type": "step.outcome", "step": 208, "agent_id": "test", "agent_pos": [14, 10], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 209, "agent_id": "test", "agent_pos": [14, 10], "action": "RIGHT"}
+{"type": "step.outcome", "step": 209, "agent_id": "test", "agent_pos": [14, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 210, "agent_id": "test", "agent_pos": [14, 11], "action": "EAT"}
+{"type": "step.outcome", "step": 210, "agent_id": "test", "agent_pos": [14, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 211, "agent_id": "test", "agent_pos": [14, 11], "action": "EAT"}
+{"type": "step.outcome", "step": 211, "agent_id": "test", "agent_pos": [14, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 212, "agent_id": "test", "agent_pos": [14, 11], "action": "EAT"}
+{"type": "step.outcome", "step": 212, "agent_id": "test", "agent_pos": [14, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 213, "agent_id": "test", "agent_pos": [14, 11], "action": "WAIT"}
+{"type": "step.outcome", "step": 213, "agent_id": "test", "agent_pos": [14, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 214, "agent_id": "test", "agent_pos": [14, 11], "action": "DOWN"}
+{"type": "step.outcome", "step": 214, "agent_id": "test", "agent_pos": [14, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 215, "agent_id": "test", "agent_pos": [14, 11], "action": "RIGHT"}
+{"type": "step.outcome", "step": 215, "agent_id": "test", "agent_pos": [14, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 216, "agent_id": "test", "agent_pos": [14, 12], "action": "UP"}
+{"type": "step.outcome", "step": 216, "agent_id": "test", "agent_pos": [13, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 217, "agent_id": "test", "agent_pos": [13, 12], "action": "UP"}
+{"type": "step.outcome", "step": 217, "agent_id": "test", "agent_pos": [12, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 218, "agent_id": "test", "agent_pos": [12, 12], "action": "DOWN"}
+{"type": "step.outcome", "step": 218, "agent_id": "test", "agent_pos": [13, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 219, "agent_id": "test", "agent_pos": [13, 12], "action": "UP"}
+{"type": "step.outcome", "step": 219, "agent_id": "test", "agent_pos": [12, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 220, "agent_id": "test", "agent_pos": [12, 12], "action": "DOWN"}
+{"type": "step.outcome", "step": 220, "agent_id": "test", "agent_pos": [13, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 221, "agent_id": "test", "agent_pos": [13, 12], "action": "LEFT"}
+{"type": "step.outcome", "step": 221, "agent_id": "test", "agent_pos": [13, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 222, "agent_id": "test", "agent_pos": [13, 11], "action": "EAT"}
+{"type": "step.outcome", "step": 222, "agent_id": "test", "agent_pos": [13, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 223, "agent_id": "test", "agent_pos": [13, 11], "action": "EAT"}
+{"type": "step.outcome", "step": 223, "agent_id": "test", "agent_pos": [13, 11], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 224, "agent_id": "test", "agent_pos": [13, 11], "action": "RIGHT"}
+{"type": "step.outcome", "step": 224, "agent_id": "test", "agent_pos": [13, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 225, "agent_id": "test", "agent_pos": [13, 12], "action": "EAT"}
+{"type": "step.outcome", "step": 225, "agent_id": "test", "agent_pos": [13, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 226, "agent_id": "test", "agent_pos": [13, 12], "action": "EAT"}
+{"type": "step.outcome", "step": 226, "agent_id": "test", "agent_pos": [13, 12], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 227, "agent_id": "test", "agent_pos": [13, 12], "action": "RIGHT"}
+{"type": "step.outcome", "step": 227, "agent_id": "test", "agent_pos": [13, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 228, "agent_id": "test", "agent_pos": [13, 13], "action": "WAIT"}
+{"type": "step.outcome", "step": 228, "agent_id": "test", "agent_pos": [13, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 229, "agent_id": "test", "agent_pos": [13, 13], "action": "DOWN"}
+{"type": "step.outcome", "step": 229, "agent_id": "test", "agent_pos": [14, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 230, "agent_id": "test", "agent_pos": [14, 13], "action": "WAIT"}
+{"type": "step.outcome", "step": 230, "agent_id": "test", "agent_pos": [14, 13], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 231, "agent_id": "test", "agent_pos": [14, 13], "action": "RIGHT"}
+{"type": "step.outcome", "step": 231, "agent_id": "test", "agent_pos": [14, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 232, "agent_id": "test", "agent_pos": [14, 14], "action": "RIGHT"}
+{"type": "step.outcome", "step": 232, "agent_id": "test", "agent_pos": [14, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 233, "agent_id": "test", "agent_pos": [14, 15], "action": "UP"}
+{"type": "step.outcome", "step": 233, "agent_id": "test", "agent_pos": [13, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 234, "agent_id": "test", "agent_pos": [13, 15], "action": "EAT"}
+{"type": "step.outcome", "step": 234, "agent_id": "test", "agent_pos": [13, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 235, "agent_id": "test", "agent_pos": [13, 15], "action": "UP"}
+{"type": "step.outcome", "step": 235, "agent_id": "test", "agent_pos": [12, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 236, "agent_id": "test", "agent_pos": [12, 15], "action": "WAIT"}
+{"type": "step.outcome", "step": 236, "agent_id": "test", "agent_pos": [12, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 237, "agent_id": "test", "agent_pos": [12, 15], "action": "LEFT"}
+{"type": "step.outcome", "step": 237, "agent_id": "test", "agent_pos": [12, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": false}
+{"type": "step.begin", "step": 238, "agent_id": "test", "agent_pos": [12, 14], "action": "UP"}
+{"type": "step.outcome", "step": 238, "agent_id": "test", "agent_pos": [11, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 239, "agent_id": "test", "agent_pos": [11, 14], "action": "UP"}
+{"type": "step.outcome", "step": 239, "agent_id": "test", "agent_pos": [10, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 240, "agent_id": "test", "agent_pos": [10, 14], "action": "DOWN"}
+{"type": "step.outcome", "step": 240, "agent_id": "test", "agent_pos": [11, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 241, "agent_id": "test", "agent_pos": [11, 14], "action": "UP"}
+{"type": "step.outcome", "step": 241, "agent_id": "test", "agent_pos": [10, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 242, "agent_id": "test", "agent_pos": [10, 14], "action": "RIGHT"}
+{"type": "step.outcome", "step": 242, "agent_id": "test", "agent_pos": [10, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 243, "agent_id": "test", "agent_pos": [10, 15], "action": "WAIT"}
+{"type": "step.outcome", "step": 243, "agent_id": "test", "agent_pos": [10, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 244, "agent_id": "test", "agent_pos": [10, 15], "action": "RIGHT"}
+{"type": "step.outcome", "step": 244, "agent_id": "test", "agent_pos": [10, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 245, "agent_id": "test", "agent_pos": [10, 16], "action": "WAIT"}
+{"type": "step.outcome", "step": 245, "agent_id": "test", "agent_pos": [10, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 246, "agent_id": "test", "agent_pos": [10, 16], "action": "RIGHT"}
+{"type": "step.outcome", "step": 246, "agent_id": "test", "agent_pos": [10, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 247, "agent_id": "test", "agent_pos": [10, 17], "action": "EAT"}
+{"type": "step.outcome", "step": 247, "agent_id": "test", "agent_pos": [10, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 248, "agent_id": "test", "agent_pos": [10, 17], "action": "DOWN"}
+{"type": "step.outcome", "step": 248, "agent_id": "test", "agent_pos": [11, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 249, "agent_id": "test", "agent_pos": [11, 17], "action": "EAT"}
+{"type": "step.outcome", "step": 249, "agent_id": "test", "agent_pos": [11, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 250, "agent_id": "test", "agent_pos": [11, 17], "action": "LEFT"}
+{"type": "step.outcome", "step": 250, "agent_id": "test", "agent_pos": [11, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 251, "agent_id": "test", "agent_pos": [11, 16], "action": "EAT"}
+{"type": "step.outcome", "step": 251, "agent_id": "test", "agent_pos": [11, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 252, "agent_id": "test", "agent_pos": [11, 16], "action": "EAT"}
+{"type": "step.outcome", "step": 252, "agent_id": "test", "agent_pos": [11, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 253, "agent_id": "test", "agent_pos": [11, 16], "action": "UP"}
+{"type": "step.outcome", "step": 253, "agent_id": "test", "agent_pos": [10, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 254, "agent_id": "test", "agent_pos": [10, 16], "action": "WAIT"}
+{"type": "step.outcome", "step": 254, "agent_id": "test", "agent_pos": [10, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 255, "agent_id": "test", "agent_pos": [10, 16], "action": "LEFT"}
+{"type": "step.outcome", "step": 255, "agent_id": "test", "agent_pos": [10, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 256, "agent_id": "test", "agent_pos": [10, 15], "action": "WAIT"}
+{"type": "step.outcome", "step": 256, "agent_id": "test", "agent_pos": [10, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 257, "agent_id": "test", "agent_pos": [10, 15], "action": "RIGHT"}
+{"type": "step.outcome", "step": 257, "agent_id": "test", "agent_pos": [10, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 258, "agent_id": "test", "agent_pos": [10, 16], "action": "EAT"}
+{"type": "step.outcome", "step": 258, "agent_id": "test", "agent_pos": [10, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 259, "agent_id": "test", "agent_pos": [10, 16], "action": "LEFT"}
+{"type": "step.outcome", "step": 259, "agent_id": "test", "agent_pos": [10, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 260, "agent_id": "test", "agent_pos": [10, 15], "action": "WAIT"}
+{"type": "step.outcome", "step": 260, "agent_id": "test", "agent_pos": [10, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 261, "agent_id": "test", "agent_pos": [10, 15], "action": "LEFT"}
+{"type": "step.outcome", "step": 261, "agent_id": "test", "agent_pos": [10, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 262, "agent_id": "test", "agent_pos": [10, 14], "action": "EAT"}
+{"type": "step.outcome", "step": 262, "agent_id": "test", "agent_pos": [10, 14], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 263, "agent_id": "test", "agent_pos": [10, 14], "action": "RIGHT"}
+{"type": "step.outcome", "step": 263, "agent_id": "test", "agent_pos": [10, 15], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 264, "agent_id": "test", "agent_pos": [10, 15], "action": "RIGHT"}
+{"type": "step.outcome", "step": 264, "agent_id": "test", "agent_pos": [10, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 265, "agent_id": "test", "agent_pos": [10, 16], "action": "WAIT"}
+{"type": "step.outcome", "step": 265, "agent_id": "test", "agent_pos": [10, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 266, "agent_id": "test", "agent_pos": [10, 16], "action": "DOWN"}
+{"type": "step.outcome", "step": 266, "agent_id": "test", "agent_pos": [11, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 267, "agent_id": "test", "agent_pos": [11, 16], "action": "DOWN"}
+{"type": "step.outcome", "step": 267, "agent_id": "test", "agent_pos": [12, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 268, "agent_id": "test", "agent_pos": [12, 16], "action": "EAT"}
+{"type": "step.outcome", "step": 268, "agent_id": "test", "agent_pos": [12, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 269, "agent_id": "test", "agent_pos": [12, 16], "action": "EAT"}
+{"type": "step.outcome", "step": 269, "agent_id": "test", "agent_pos": [12, 16], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 270, "agent_id": "test", "agent_pos": [12, 16], "action": "RIGHT"}
+{"type": "step.outcome", "step": 270, "agent_id": "test", "agent_pos": [12, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 271, "agent_id": "test", "agent_pos": [12, 17], "action": "EAT"}
+{"type": "step.outcome", "step": 271, "agent_id": "test", "agent_pos": [12, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 272, "agent_id": "test", "agent_pos": [12, 17], "action": "EAT"}
+{"type": "step.outcome", "step": 272, "agent_id": "test", "agent_pos": [12, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 273, "agent_id": "test", "agent_pos": [12, 17], "action": "WAIT"}
+{"type": "step.outcome", "step": 273, "agent_id": "test", "agent_pos": [12, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 274, "agent_id": "test", "agent_pos": [12, 17], "action": "EAT"}
+{"type": "step.outcome", "step": 274, "agent_id": "test", "agent_pos": [12, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 275, "agent_id": "test", "agent_pos": [12, 17], "action": "EAT"}
+{"type": "step.outcome", "step": 275, "agent_id": "test", "agent_pos": [12, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 276, "agent_id": "test", "agent_pos": [12, 17], "action": "WAIT"}
+{"type": "step.outcome", "step": 276, "agent_id": "test", "agent_pos": [12, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 277, "agent_id": "test", "agent_pos": [12, 17], "action": "UP"}
+{"type": "step.outcome", "step": 277, "agent_id": "test", "agent_pos": [11, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 278, "agent_id": "test", "agent_pos": [11, 17], "action": "WAIT"}
+{"type": "step.outcome", "step": 278, "agent_id": "test", "agent_pos": [11, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 279, "agent_id": "test", "agent_pos": [11, 17], "action": "WAIT"}
+{"type": "step.outcome", "step": 279, "agent_id": "test", "agent_pos": [11, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 280, "agent_id": "test", "agent_pos": [11, 17], "action": "RIGHT"}
+{"type": "step.outcome", "step": 280, "agent_id": "test", "agent_pos": [11, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 281, "agent_id": "test", "agent_pos": [11, 18], "action": "DOWN"}
+{"type": "step.outcome", "step": 281, "agent_id": "test", "agent_pos": [12, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 282, "agent_id": "test", "agent_pos": [12, 18], "action": "UP"}
+{"type": "step.outcome", "step": 282, "agent_id": "test", "agent_pos": [11, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 283, "agent_id": "test", "agent_pos": [11, 18], "action": "WAIT"}
+{"type": "step.outcome", "step": 283, "agent_id": "test", "agent_pos": [11, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 284, "agent_id": "test", "agent_pos": [11, 18], "action": "WAIT"}
+{"type": "step.outcome", "step": 284, "agent_id": "test", "agent_pos": [11, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 285, "agent_id": "test", "agent_pos": [11, 18], "action": "RIGHT"}
+{"type": "step.outcome", "step": 285, "agent_id": "test", "agent_pos": [11, 19], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 286, "agent_id": "test", "agent_pos": [11, 19], "action": "WAIT"}
+{"type": "step.outcome", "step": 286, "agent_id": "test", "agent_pos": [11, 19], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 287, "agent_id": "test", "agent_pos": [11, 19], "action": "LEFT"}
+{"type": "step.outcome", "step": 287, "agent_id": "test", "agent_pos": [11, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 288, "agent_id": "test", "agent_pos": [11, 18], "action": "DOWN"}
+{"type": "step.outcome", "step": 288, "agent_id": "test", "agent_pos": [12, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 289, "agent_id": "test", "agent_pos": [12, 18], "action": "UP"}
+{"type": "step.outcome", "step": 289, "agent_id": "test", "agent_pos": [11, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 290, "agent_id": "test", "agent_pos": [11, 18], "action": "WAIT"}
+{"type": "step.outcome", "step": 290, "agent_id": "test", "agent_pos": [11, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 291, "agent_id": "test", "agent_pos": [11, 18], "action": "UP"}
+{"type": "step.outcome", "step": 291, "agent_id": "test", "agent_pos": [10, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 292, "agent_id": "test", "agent_pos": [10, 18], "action": "RIGHT"}
+{"type": "step.outcome", "step": 292, "agent_id": "test", "agent_pos": [10, 19], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 293, "agent_id": "test", "agent_pos": [10, 19], "action": "RIGHT"}
+{"type": "step.outcome", "step": 293, "agent_id": "test", "agent_pos": [10, 19], "energy_gained": 0.0, "damage_taken": 0.0, "collision": true, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 294, "agent_id": "test", "agent_pos": [10, 19], "action": "LEFT"}
+{"type": "step.outcome", "step": 294, "agent_id": "test", "agent_pos": [10, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 295, "agent_id": "test", "agent_pos": [10, 18], "action": "DOWN"}
+{"type": "step.outcome", "step": 295, "agent_id": "test", "agent_pos": [11, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 296, "agent_id": "test", "agent_pos": [11, 18], "action": "EAT"}
+{"type": "step.outcome", "step": 296, "agent_id": "test", "agent_pos": [11, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": false}
+{"type": "step.begin", "step": 297, "agent_id": "test", "agent_pos": [11, 18], "action": "DOWN"}
+{"type": "step.outcome", "step": 297, "agent_id": "test", "agent_pos": [12, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 298, "agent_id": "test", "agent_pos": [12, 18], "action": "LEFT"}
+{"type": "step.outcome", "step": 298, "agent_id": "test", "agent_pos": [12, 17], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
+{"type": "step.begin", "step": 299, "agent_id": "test", "agent_pos": [12, 17], "action": "RIGHT"}
+{"type": "step.outcome", "step": 299, "agent_id": "test", "agent_pos": [12, 18], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}
+{"type": "step.begin", "step": 300, "agent_id": "test", "agent_pos": [12, 18], "action": "EAT"}
+{"type": "step.outcome", "step": 300, "agent_id": "test", "agent_pos": [12, 18], "energy_gained": 0.4, "damage_taken": 0.0, "collision": false, "food_visible": false, "danger_visible": true}

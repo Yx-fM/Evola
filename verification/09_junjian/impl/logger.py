@@ -5,6 +5,22 @@ import os
 from datetime import datetime
 from enum import Enum
 
+import numpy as np
+
+
+def _to_native(obj):
+    if isinstance(obj, dict):
+        return {k: _to_native(v) for k, v in obj.items()}
+    if isinstance(obj, (list, tuple)):
+        return [_to_native(v) for v in obj]
+    if isinstance(obj, (np.integer,)):
+        return int(obj)
+    if isinstance(obj, (np.floating,)):
+        return float(obj)
+    if isinstance(obj, np.ndarray):
+        return obj.tolist()
+    return obj
+
 
 class PrivacyLevel(Enum):
     PUBLIC = 0
@@ -43,7 +59,7 @@ class JunJian:
         self._subscribed.setdefault(event_type, []).append(callback)
 
     def _write(self, entry: dict):
-        self._log_file.write(json.dumps(entry, ensure_ascii=False) + "\n")
+        self._log_file.write(json.dumps(_to_native(entry), ensure_ascii=False) + "\n")
         self._log_file.flush()
 
     def _on_step(self, data):

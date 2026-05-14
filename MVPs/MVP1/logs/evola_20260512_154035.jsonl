@@ -1,0 +1,2 @@
+{"type": "step.begin", "step": 1, "agent_id": "test", "agent_pos": [1, 7], "action": "WAIT"}
+{"type": "step.outcome", "step": 1, "agent_id": "test", "agent_pos": [1, 7], "energy_gained": 0.0, "damage_taken": 0.0, "collision": false, "food_visible": true, "danger_visible": true}
